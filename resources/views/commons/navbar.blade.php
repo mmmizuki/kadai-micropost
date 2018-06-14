@@ -11,7 +11,7 @@
                 <a class="navbar-brand" href="/">Microposts</a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a href="#">Signup</a></li>
                     <li><a href="#">Login</a></li>
                 </ul>
